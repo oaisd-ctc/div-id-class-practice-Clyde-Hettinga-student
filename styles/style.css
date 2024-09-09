@@ -2,8 +2,8 @@
 {
     height: 100px;
     width: 100%;
-    margin: 10px;
-    border-radius: 10px;
+    margin: 15px;
+    border-radius: 25px;
     background-color: darkturquoise;
 }
 
@@ -24,7 +24,7 @@
 
 #green-box
 {
-    background-color: green;
+    background-color: forestgreen;
 }
 
 #blue-box
@@ -39,7 +39,7 @@
 
 #pink-box
 {
-    background-color: pink;
+    background-color: lightpink;
 }
 
 #light-gray-box
